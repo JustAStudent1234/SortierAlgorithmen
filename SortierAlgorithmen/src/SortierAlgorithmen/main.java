@@ -10,7 +10,7 @@ public class main {
 	public static void main(String[] args) {
 
 		try {
-			GUI c = new GUI(150);
+			GUI c = new GUI();
 		} catch (Exception e) {
 			e.getStackTrace();
 		}
