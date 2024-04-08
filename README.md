@@ -1,17 +1,17 @@
 # SortierAlgorithmen
 Die gängigsten Sortieralgorithmen implementiert und mit Animationen visualisiert:
 
-Selection Sort: 
+## Selection Sort: 
 
 ![image](https://github.com/LorenzWenzel/SortierAlgorithmen/assets/73563833/9e6927bc-cb7c-4f60-864d-0ff1e4c19c66)
 
 
-Bubble Sort: 
+## Bubble Sort: 
 
 ![image](https://github.com/LorenzWenzel/SortierAlgorithmen/assets/73563833/5c0d5e87-6118-4766-a577-af16c3d6396b)
 
 
-Insertion Sort: 
+## Insertion Sort: 
 
 ![image](https://github.com/LorenzWenzel/SortierAlgorithmen/assets/73563833/7ab4f1c9-d826-498c-ac2e-b171b54b01bc)
 
