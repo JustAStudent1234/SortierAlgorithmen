@@ -1,6 +1,17 @@
 # SortierAlgorithmen
 Die gängigsten Sortieralgorithmen implementiert und mit Animationen visualisiert:
 
+Selection Sort: 
+![image](https://github.com/LorenzWenzel/SortierAlgorithmen/assets/73563833/9e6927bc-cb7c-4f60-864d-0ff1e4c19c66)
+
+Bubble Sort: 
+![image](https://github.com/LorenzWenzel/SortierAlgorithmen/assets/73563833/5c0d5e87-6118-4766-a577-af16c3d6396b)
+
+Insertion Sort: 
+![image](https://github.com/LorenzWenzel/SortierAlgorithmen/assets/73563833/7ab4f1c9-d826-498c-ac2e-b171b54b01bc)
+
+
+
 Ich habe mich für die Visualisierung der Sortieralgorithmen anhand einer Animation des Arrays in einer GUI entschieden und gegen z.b. die Visualisierung durch dem Sortieren von Balken, da ich zum einen vollkommen innerhalb der Java.swing Umgebung bleiben wollte, ich aber auch mehr Potential darin sehe die divide & conquer Verfahren zu visualisieren.
 
 Bubble-Sort wird nach jeder Iteration der inneren der beiden Schleifen aktualisiert, also nach jeder Tauschoperation. Beide Elemente der zu tauschenden Felder 
